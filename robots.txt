@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peepalloan8921.github.io/Loan-Peepal-Customer-Care-Number-8434857020/sitemap.xml
